@@ -73,11 +73,16 @@ def extract_thread_data(thread):
     title = thread["url"].removeprefix("https://worldbeyblade.org/Thread-")
     title = title.split('--', 1)[0].replace('-', ' ').strip()
 
+    #clean location
+    location = google_map.removeprefix("https://maps.google.com/?q=")
+    location = location.replace('%20', ' ').strip()
+
     return {
         "title": title,
         "url": thread["url"],
         "google_maps": google_map,
-        "date": date
+        "date": date,
+        "location": location
     }
 
 
