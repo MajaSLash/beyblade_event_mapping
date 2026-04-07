@@ -2,6 +2,8 @@
 
 Google Map integration for visualizing upcoming Beyblade events posted on the WBO. **This is a closed project that runs locally, the goal is to ensure enough working features to release this on a public website for the community to utilize.** I appreciate all feedback that you have on the project at this time.
 
+![Website As of 4-7-26](assets/app4-7-26.jpg)
+
 ## Getting Started
 
 - Clone this repository.
@@ -20,6 +22,7 @@ Google Map integration for visualizing upcoming Beyblade events posted on the WB
 - Nav bar pages
 - Data analysis of regional metas
 - Search by proximity
+- Search by date
 
 ## Business Inquiries & Contributions
 
