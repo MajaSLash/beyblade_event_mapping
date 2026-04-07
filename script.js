@@ -166,6 +166,40 @@ function addTournamentToListAndMap(
   });
 }
 
+// Search functionality
+const searchBar = document.getElementById("search-bar");
+searchBar.addEventListener("input", () => {
+  const query = searchBar.value.toLowerCase();
+  const tournamentItems = document.querySelectorAll("#tournament-list li");
+  tournamentItems.forEach((item) => {
+    const name = item
+      .querySelector(".tournament-name")
+      .textContent.toLowerCase();
+    const address = item
+      .querySelector(".tournament-address")
+      .textContent.toLowerCase();
+    if (name.includes(query) || address.includes(query)) {
+      item.style.display = "";
+    } else {
+      item.style.display = "none";
+    }
+  });
+});
+
+//navbar
+document.addEventListener("DOMContentLoaded", function () {
+  const navbarToggle = document.getElementById("navbarToggle");
+  const navbarMenu = document.getElementById("navbarMenu");
+  if (navbarToggle && navbarMenu) {
+    navbarToggle.addEventListener("click", function () {
+      navbarToggle.classList.toggle("is-active");
+      navbarMenu.classList.toggle("is-active");
+      const isExpanded = navbarToggle.getAttribute("aria-expanded") === "true";
+      navbarToggle.setAttribute("aria-expanded", !isExpanded);
+    });
+  }
+});
+
 function openModal(tournament) {
   const modal = document.getElementById("event-modal");
   document.getElementById("modal-title").textContent = tournament.name;

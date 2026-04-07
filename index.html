@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Upcoming Beyblade Tournaments</title>
+    <title>Tournament Map</title>
     <link rel="stylesheet" href="styles.css" />
     <link
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -9,9 +9,54 @@
     />
   </head>
   <body>
+    <header class="navbar">
+      <div class="navbar__container">
+        <a href="#" class="navbar__brand">Beyblade Tournament Map</a>
+        <button
+          class="navbar__toggle"
+          id="navbarToggle"
+          aria-label="Toggle navigation"
+          aria-controls="navbarMenu"
+          aria-expanded="false"
+        >
+          <span class="bar"></span><span class="bar"></span
+          ><span class="bar"></span>
+        </button>
+        <nav
+          id="navbarMenu"
+          class="navbar__menu"
+          role="navigation"
+          aria-labelledby="navbarToggle"
+        >
+          <ul class="navbar__list">
+            <li class="navbar__item">
+              <a href="#" class="navbar__link">About</a>
+            </li>
+            <li class="navbar__item">
+              <a href="#" class="navbar__link">Contact</a>
+            </li>
+            <li class="navbar__item">
+              <a href="#" class="navbar__link">FAQ</a>
+            </li>
+            <li class="navbar__item navbar__item--cta">
+              <a href="#" class="navbar__link navbar__link--cta">Donate</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
     <div id="container">
       <div id="sidebar">
         <h2>Find Tournaments</h2>
+        <div class="InputContainer">
+          <input
+            placeholder="Search"
+            id="search-bar"
+            class="input"
+            name="text"
+            type="text"
+          />
+        </div>
         <ul id="tournament-list"></ul>
       </div>
       <div id="map"></div>
