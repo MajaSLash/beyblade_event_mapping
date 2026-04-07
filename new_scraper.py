@@ -25,14 +25,14 @@ def get_threads():
         link = panel.find("a", href=True)
 
         if link:
-            title = link.get_text(strip=True)
+            name = link.get_text(strip=True)
             href = link["href"]
 
             if not href.startswith("http"):
                 href = BASE_URL + "/" + href
 
             threads.append({
-                "title": title,
+                "name": name,
                 "url": href
             })
 
@@ -69,20 +69,20 @@ def extract_thread_data(thread):
         date = date_tag.get_text(strip=True)
 
 
-    #Clean up title
-    title = thread["url"].removeprefix("https://worldbeyblade.org/Thread-")
-    title = title.split('--', 1)[0].replace('-', ' ').strip()
+    #Clean up name
+    name = thread["url"].removeprefix("https://worldbeyblade.org/Thread-")
+    name = name.split('--', 1)[0].replace('-', ' ').strip()
 
-    #clean location
-    location = google_map.removeprefix("https://maps.google.com/?q=")
-    location = location.replace('%20', ' ').strip()
+    #clean address
+    address = google_map.removeprefix("https://maps.google.com/?q=")
+    address = address.replace('%20', ' ').strip()
 
     return {
-        "title": title,
-        "url": thread["url"],
-        "google_maps": google_map,
+        "name": name,
+        "location": { "lat": 0, "lng": 0 },
+        "address": address,
         "date": date,
-        "location": location
+        "url": thread["url"]
     }
 
 
@@ -102,7 +102,7 @@ def main():
         try:
             data = extract_thread_data(t)
             results.append(data)
-            print(f"Scraped: {data['title']}")
+            print(f"Scraped: {data['name']}")
             time.sleep(1)  # avoid rate limiting
         except Exception as e:
             print(f"Error scraping {t['url']}: {e}")
