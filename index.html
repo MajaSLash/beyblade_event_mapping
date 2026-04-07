@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Upcoming Tournament Map</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="container">
+      <div id="sidebar">
+        <h2>Upcoming Tournaments</h2>
+        <ul id="tournament-list"></ul>
+      </div>
+      <div id="map"></div>
+    </div>
+
+    <div id="event-modal" class="modal-hidden">
+      <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <h3 id="modal-title"></h3>
+        <p id="modal-date"></p>
+        <a id="modal-link" href="#" target="_blank" rel="noopener"
+          >View Event Post</a
+        >
+      </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script>
+      const mapConfig = window.GOOGLE_MAPS_CONFIG || {};
+
+      ((g) => {
+        var h,
+          a,
+          k,
+          p = "The Google Maps JavaScript API",
+          c = "google",
+          l = "importLibrary",
+          q = "__ib__",
+          m = document,
+          b = window;
+        b = b[c] || (b[c] = {});
+        var d = b.maps || (b.maps = {}),
+          r = new Set(),
+          e = new URLSearchParams(),
+          u = () =>
+            h ||
+            (h = new Promise(async (f, n) => {
+              await (a = m.createElement("script"));
+              e.set("libraries", [...r] + "");
+              for (k in g)
+                e.set(
+                  k.replace(/[A-Z]/g, (t) => "_" + t[0].toLowerCase()),
+                  g[k],
+                );
+              e.set("callback", c + ".maps." + q);
+              a.src = `https://maps.${c}apis.com/maps/api/js?` + e;
+              d[q] = f;
+              a.onerror = () => (h = n(Error(p + " could not load.")));
+              a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+              m.head.append(a);
+            }));
+        d[l]
+          ? console.warn(p + " only loads once. Ignoring:", g)
+          : (d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)));
+      })(mapConfig);
+    </script>
+    <script src="script.js"></script>
+  </body>
+</html>
