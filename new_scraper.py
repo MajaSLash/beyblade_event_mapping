@@ -115,5 +115,5 @@ if __name__ == "__main__":
 
     # Save results
     import json
-    with open("tournaments.json", "w", encoding="utf-8") as f:
+    with open("map/data/tournaments.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)

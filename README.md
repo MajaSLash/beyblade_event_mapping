@@ -9,7 +9,7 @@ Google Map integration for visualizing upcoming Beyblade events posted on the WB
 - Clone this repository.
 - Sign up for a trial API key from [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/demo-key). You will need to input your CC info to get access to the Geocoding API.
 - run `new_scraper.py` to get the latest data (replace the old file in `data/tournaments.json` with the new generated file).
-- In Bash, run `npx serve`.
+- In Bash, run `cd data`, then `npx serve`.
 
 ## Known Issues
 

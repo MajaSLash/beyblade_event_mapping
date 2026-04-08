@@ -20,16 +20,6 @@
     "url": "https://worldbeyblade.org/Thread-The-Joyful-Toad-Weekly-Standard-32--124457"
   },
   {
-    "name": "Portland Trail Bladers Tournament 17",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Chronos Games and Gifts 11943 SW Canyon Rd, Beaverton, Oregon 97005",
-    "date": "04/07/2026",
-    "url": "https://worldbeyblade.org/Thread-Portland-Trail-Bladers-Tournament-17--124724"
-  },
-  {
     "name": "Peter Piper Throwdown 15",
     "location": {
       "lat": 0,
@@ -38,6 +28,16 @@
     "address": "Peter Piper Pizza 4121 S Port Ave, Corpus Christi, Texas 78415",
     "date": "04/07/2026",
     "url": "https://worldbeyblade.org/Thread-Peter-Piper-Throwdown-15--124728"
+  },
+  {
+    "name": "Portland Trail Bladers Tournament 17",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Chronos Games and Gifts 11943 SW Canyon Rd, Beaverton, Oregon 97005",
+    "date": "04/07/2026",
+    "url": "https://worldbeyblade.org/Thread-Portland-Trail-Bladers-Tournament-17--124724"
   },
   {
     "name": "DFW Beyblades Weekly Tournament 111",
@@ -60,16 +60,6 @@
     "url": "https://worldbeyblade.org/Thread-Bursting-Blades-at-the-Conclave-7--124878"
   },
   {
-    "name": "Dave and Beyblades 8",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Dave And Busters 625 Atlantic Ave Suite 311, Brooklyn, New York 11217",
-    "date": "04/08/2026",
-    "url": "https://worldbeyblade.org/Thread-Dave-and-Beyblades-8--124853"
-  },
-  {
     "name": "Decks and Dice BBX Weekly Tournament 20",
     "location": {
       "lat": 0,
@@ -80,6 +70,16 @@
     "url": "https://worldbeyblade.org/Thread-Decks-and-Dice-BBX-Weekly-Tournament-20--124889"
   },
   {
+    "name": "Dave and Beyblades 8",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Dave And Busters 625 Atlantic Ave Suite 311, Brooklyn, New York 11217",
+    "date": "04/08/2026",
+    "url": "https://worldbeyblade.org/Thread-Dave-and-Beyblades-8--124853"
+  },
+  {
     "name": "Dallas Beyblade Association H%C3%A9ctors Tyranno Park Classic 7",
     "location": {
       "lat": 0,
@@ -88,16 +88,6 @@
     "address": "Milton's Collectibles 2825 Valley View Ln Ste 218, Farmers Branch, Texas 75234",
     "date": "04/09/2026",
     "url": "https://worldbeyblade.org/Thread-Dallas-Beyblade-Association-H%C3%A9ctors-Tyranno-Park-Classic-7--124857"
-  },
-  {
-    "name": "MCB BEYBLADE X SEASON 1 FRIDAY NIGHT RANKED EVENT 4",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "ROE HOBBY 10870 AL-25, CALERA, Alabama 35040",
-    "date": "04/10/2026",
-    "url": "https://worldbeyblade.org/Thread-MCB-BEYBLADE-X-SEASON-1-FRIDAY-NIGHT-RANKED-EVENT-4--124907"
   },
   {
     "name": "PTL BEYBLADE X VOL 4",
@@ -120,14 +110,14 @@
     "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Community-Game-Night-32--124779"
   },
   {
-    "name": "X Masters 44",
+    "name": "MCB BEYBLADE X SEASON 1 FRIDAY NIGHT RANKED EVENT 4",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Paragon City Games 8558 S 1300 E Suite 101, Sandy, Utah 84094",
-    "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-X-Masters-44--124880"
+    "address": "ROE HOBBY 10870 AL-25, CALERA, Alabama 35040",
+    "date": "04/10/2026",
+    "url": "https://worldbeyblade.org/Thread-MCB-BEYBLADE-X-SEASON-1-FRIDAY-NIGHT-RANKED-EVENT-4--124907"
   },
   {
     "name": "Edmonton AB 2026 Bouncing Beys",
@@ -150,14 +140,14 @@
     "url": "https://worldbeyblade.org/Thread-SnoHo-Monthly-An-event-formerly-known-as-Dran-Busters"
   },
   {
-    "name": "STAR BATTLE American Card shop 6",
+    "name": "Rip%E2%80%99s warehouse 4 11 2026",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "American Card Shop 393 W Shaw Ave, Clovis, California 93612",
+    "address": "689 Marsat Ct, Chula vista, California 91911",
     "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-STAR-BATTLE-American-Card-shop-6--124809"
+    "url": "https://worldbeyblade.org/Thread-Rip%E2%80%99s-warehouse-4-11-2026--124910"
   },
   {
     "name": "Lafayette Louisiana Unranked BBX 04 11 2026",
@@ -170,6 +160,16 @@
     "url": "https://worldbeyblade.org/Thread-Lafayette-Louisiana-Unranked-BBX-04-11-2026"
   },
   {
+    "name": "Waffles and Enthusiasm Monthly Beyblade X Tournament 3",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Waffles and Enthusiasm 414 W Ridge Pike, Conshohocken, Pennsylvania 19428",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-Waffles-and-Enthusiasm-Monthly-Beyblade-X-Tournament-3--124514"
+  },
+  {
     "name": "Beyblade Four Horsemen 1",
     "location": {
       "lat": 0,
@@ -178,16 +178,6 @@
     "address": "Four Horsemen Comics and Gaming 100 Robinson Center Drive Ste 2800, Pittsburgh, Pennsylvania 15205",
     "date": "04/11/2026",
     "url": "https://worldbeyblade.org/Thread-Beyblade-Four-Horsemen-1--124327"
-  },
-  {
-    "name": "Professional Dreidels Bash Dragons Hoard",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Dragons Hoard 4645 W Market St Suite A2, Greensboro, North Carolina 27408",
-    "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-Professional-Dreidels-Bash-Dragons-Hoard--124777"
   },
   {
     "name": "Metal Fight Night Round 1 Limited NC State",
@@ -200,16 +190,6 @@
     "url": "https://worldbeyblade.org/Thread-Metal-Fight-Night-Round-1-Limited-NC-State--124627"
   },
   {
-    "name": "Boise 2 World Ranked Realms Showdown 2",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Realms Arcade 109 S 23rd St, Boise, Idaho 83702",
-    "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-Boise-2-World-Ranked-Realms-Showdown-2--124569"
-  },
-  {
     "name": "East Coast Cup X 16 Micro Battles NC State",
     "location": {
       "lat": 0,
@@ -220,14 +200,14 @@
     "url": "https://worldbeyblade.org/Thread-East-Coast-Cup-X-16-Micro-Battles-NC-State--124879"
   },
   {
-    "name": "Eggs treme Dash Dragonic Break",
+    "name": "X Masters 44",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "BLADE Gaming 430 Salem Ave SW, Roanoke, Virginia 24016",
+    "address": "Paragon City Games 8558 S 1300 E Suite 101, Sandy, Utah 84094",
     "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-Eggs-treme-Dash-Dragonic-Break"
+    "url": "https://worldbeyblade.org/Thread-X-Masters-44--124880"
   },
   {
     "name": "snow s igloo 10 Magnacore Plastic Gen",
@@ -260,16 +240,6 @@
     "url": "https://worldbeyblade.org/Thread-Master-Bursters-X-Thriller-Con--124128"
   },
   {
-    "name": "Xtreme Dashwood 4",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Heatherwilde clubhouse 16816 Cactus Blossom Dr, Pflugerville, Texas 78660",
-    "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-Xtreme-Dashwood-4--124517"
-  },
-  {
     "name": "GingerBeardMan x Krakenhits Reversal Tournament Extraordinaire",
     "location": {
       "lat": 0,
@@ -280,44 +250,64 @@
     "url": "https://worldbeyblade.org/Thread-GingerBeardMan-x-Krakenhits-Reversal-Tournament-Extraordinaire--124119"
   },
   {
-    "name": "Waffles and Enthusiasm Monthly Beyblade X Tournament 3",
+    "name": "Professional Dreidels Bash Dragons Hoard",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Waffles and Enthusiasm 414 W Ridge Pike, Conshohocken, Pennsylvania 19428",
+    "address": "Dragons Hoard 4645 W Market St Suite A2, Greensboro, North Carolina 27408",
     "date": "04/11/2026",
-    "url": "https://worldbeyblade.org/Thread-Waffles-and-Enthusiasm-Monthly-Beyblade-X-Tournament-3--124514"
+    "url": "https://worldbeyblade.org/Thread-Professional-Dreidels-Bash-Dragons-Hoard--124777"
   },
   {
-    "name": "Boba and Beys 04 12 26",
+    "name": "Xtreme Dashwood 4",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-12-26--124614"
+    "address": "Heatherwilde clubhouse 16816 Cactus Blossom Dr, Pflugerville, Texas 78660",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-Xtreme-Dashwood-4--124517"
   },
   {
-    "name": "NEBO X Third Space 3",
+    "name": "STAR BATTLE American Card shop 6",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Third Space Arcade Lounge 410 Blake Street #5, New Haven, Connecticut 06515",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-NEBO-X-Third-Space-3--124835"
+    "address": "American Card Shop 393 W Shaw Ave, Clovis, California 93612",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-STAR-BATTLE-American-Card-shop-6--124809"
   },
   {
-    "name": "Raftel SBOX Pre temporada Qualifying match",
+    "name": "Eggs treme Dash Dragonic Break",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Raftel StoreMx Frontera 100-Int 102, Mexico City, Mexico City 06700",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Raftel-SBOX-Pre-temporada-Qualifying-match--124855"
+    "address": "BLADE Gaming 430 Salem Ave SW, Roanoke, Virginia 24016",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-Eggs-treme-Dash-Dragonic-Break"
+  },
+  {
+    "name": "No Limit Blading 12",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "No Limit Gaming 1217 E Stroop Rd, Kettering, Ohio 45429",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-No-Limit-Blading-12--124914"
+  },
+  {
+    "name": "Boise 2 World Ranked Realms Showdown 2",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Realms Arcade 109 S 23rd St, Boise, Idaho 83702",
+    "date": "04/11/2026",
+    "url": "https://worldbeyblade.org/Thread-Boise-2-World-Ranked-Realms-Showdown-2--124569"
   },
   {
     "name": "Las Vegas First WBO Ranked Tournament",
@@ -350,34 +340,24 @@
     "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-MFB-Limited-04-12-26--124612"
   },
   {
-    "name": "Beyblade X Bangalore 042026",
+    "name": "Boba and Beys 04 12 26",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "WeWork Pavilion Church Street, M.G. Road, Bangalore, Karnataka 560001",
+    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
     "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Beyblade-X-Bangalore-042026--124803"
+    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-12-26--124614"
   },
   {
-    "name": "Temecula Valley Blading in T Town 13",
+    "name": "Portland Trail Bladers Tournament 18",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
+    "address": "Lloyd Center 2201 Lloyd Center, Portland, Oregon 97232",
     "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-13--124793"
-  },
-  {
-    "name": "DFW Beyblades Weekly Tournament 112 Easter Tournament",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Epik Cards & Games 734 E Pipeline Rd, Hurst, Texas 76053",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-112-Easter-Tournament--124780"
+    "url": "https://worldbeyblade.org/Thread-Portland-Trail-Bladers-Tournament-18--124772"
   },
   {
     "name": "AJ AvAde Present Game 3 x Anime North Qualifier",
@@ -390,6 +370,16 @@
     "url": "https://worldbeyblade.org/Thread-AJ-AvAde-Present-Game-3-x-Anime-North-Qualifier--124770"
   },
   {
+    "name": "Shape Center Invitationals All Or Nothing Attack",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "The Rec Room Brentwood 1920 Willingdon Ave Unit 2106, Burnaby, British Columbia V5C 0K3",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-Shape-Center-Invitationals-All-Or-Nothing-Attack"
+  },
+  {
     "name": "Bey Battle at The Fort 1",
     "location": {
       "lat": 0,
@@ -400,14 +390,34 @@
     "url": "https://worldbeyblade.org/Thread-Bey-Battle-at-The-Fort-1--124771"
   },
   {
-    "name": "Portland Trail Bladers Tournament 18",
+    "name": "NEBO X Third Space 3",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Lloyd Center 2201 Lloyd Center, Portland, Oregon 97232",
+    "address": "Third Space Arcade Lounge 410 Blake Street #5, New Haven, Connecticut 06515",
     "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Portland-Trail-Bladers-Tournament-18--124772"
+    "url": "https://worldbeyblade.org/Thread-NEBO-X-Third-Space-3--124835"
+  },
+  {
+    "name": "BEYFEST x BLADERVERSE",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "PigBeach 35-37 36th St Ground Floor, Astoria, New York 11106",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-BEYFEST-x-BLADERVERSE--124449"
+  },
+  {
+    "name": "Raftel SBOX Pre temporada Qualifying match",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Raftel StoreMx Frontera 100-Int 102, Mexico City, Mexico City 06700",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-Raftel-SBOX-Pre-temporada-Qualifying-match--124855"
   },
   {
     "name": "T Bladez NinjaXChange Carlsbad 1",
@@ -430,6 +440,36 @@
     "url": "https://worldbeyblade.org/Thread-Maryland-Beyblade-League-Spring-Open-Day-2-04-12-26--124312"
   },
   {
+    "name": "DFW Beyblades Weekly Tournament 112 Easter Tournament",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Epik Cards & Games 734 E Pipeline Rd, Hurst, Texas 76053",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-112-Easter-Tournament--124780"
+  },
+  {
+    "name": "Beyblade X Bangalore 042026",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "WeWork Pavilion Church Street, M.G. Road, Bangalore, Karnataka 560001",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-Beyblade-X-Bangalore-042026--124803"
+  },
+  {
+    "name": "Temecula Valley Blading in T Town 13",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
+    "date": "04/12/2026",
+    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-13--124793"
+  },
+  {
     "name": "Beyblade X Bad Machines 4 Episode IV %E2%80%93 A New Hope",
     "location": {
       "lat": 0,
@@ -438,36 +478,6 @@
     "address": "Bad Machines Esports Bar 216 Nottingham Dr, Cary, North Carolina 27511",
     "date": "04/12/2026",
     "url": "https://worldbeyblade.org/Thread-Beyblade-X-Bad-Machines-4-Episode-IV-%E2%80%93-A-New-Hope--123904"
-  },
-  {
-    "name": "Shape Center Invitationals All Or Nothing Attack",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "The Rec Room Brentwood 1920 Willingdon Ave Unit 2106, Burnaby, British Columbia V5C 0K3",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-Shape-Center-Invitationals-All-Or-Nothing-Attack"
-  },
-  {
-    "name": "BEYFEST x BLADERVERSE",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "PigBeach 35-37 36th St Ground Floor, Astoria, New York 11106",
-    "date": "04/12/2026",
-    "url": "https://worldbeyblade.org/Thread-BEYFEST-x-BLADERVERSE--124449"
-  },
-  {
-    "name": "DFW Beyblades Weekly Tournament 113",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Simplicity Esports 465 Cedar Sage Dr, Garland, Texas 75040",
-    "date": "04/14/2026",
-    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-113--124794"
   },
   {
     "name": "The Joyful Toad Weekly Standard 33",
@@ -480,14 +490,14 @@
     "url": "https://worldbeyblade.org/Thread-The-Joyful-Toad-Weekly-Standard-33--124458"
   },
   {
-    "name": "FRIDAY Night Fight Curio Baltimore 04 17 26",
+    "name": "DFW Beyblades Weekly Tournament 113",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Curio Cavern Baltimore 6901 Security Blvd, Windsor Mill, Maryland 21244",
-    "date": "04/17/2026",
-    "url": "https://worldbeyblade.org/Thread-FRIDAY-Night-Fight-Curio-Baltimore-04-17-26--124858"
+    "address": "Simplicity Esports 465 Cedar Sage Dr, Garland, Texas 75040",
+    "date": "04/14/2026",
+    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-113--124794"
   },
   {
     "name": "DFW Beyblades Community Game Night 33",
@@ -500,44 +510,24 @@
     "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Community-Game-Night-33--124874"
   },
   {
-    "name": "SATURDAY Curio Baltimore Local Tournament 04 18 26",
+    "name": "FRIDAY Night Fight Curio Baltimore 04 17 26",
     "location": {
       "lat": 0,
       "lng": 0
     },
     "address": "Curio Cavern Baltimore 6901 Security Blvd, Windsor Mill, Maryland 21244",
-    "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-SATURDAY-Curio-Baltimore-Local-Tournament-04-18-26--124860"
+    "date": "04/17/2026",
+    "url": "https://worldbeyblade.org/Thread-FRIDAY-Night-Fight-Curio-Baltimore-04-17-26--124858"
   },
   {
-    "name": "GANGSTA BALL Z RETURN OF THE DEMON KING",
+    "name": "Pure Panic Local Tournament 1",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Almeria Park 7250 Almeria Ave, Fontana, California 92336",
+    "address": "PURE PANIC Comics and Games 8317 Fenton St, Silver Spring, Maryland 20910",
     "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-GANGSTA-BALL-Z-RETURN-OF-THE-DEMON-KING--124731"
-  },
-  {
-    "name": "HIT ZONE S1E7 MASTERS OF PEGASUS",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Krakenhits 7136 University Ave NE, Fridley, Minnesota 55432",
-    "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-HIT-ZONE-S1E7-MASTERS-OF-PEGASUS--124733"
-  },
-  {
-    "name": "X Masters 45",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Paragon City Games 8558 S 1300 E Suite 101, Sandy, Utah 84094",
-    "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-X-Masters-45--124881"
+    "url": "https://worldbeyblade.org/Thread-Pure-Panic-Local-Tournament-1--124550"
   },
   {
     "name": "A Winter s Requiem",
@@ -550,24 +540,14 @@
     "url": "https://worldbeyblade.org/Thread-A-Winter-s-Requiem--124722"
   },
   {
-    "name": "SuperStar Card Gaming Local Tournament 04 18 26",
+    "name": "X Masters 45",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "SuperStar Card Gaming 7902 Belair Rd, Nottingham, Maryland 21236",
+    "address": "Paragon City Games 8558 S 1300 E Suite 101, Sandy, Utah 84094",
     "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-SuperStar-Card-Gaming-Local-Tournament-04-18-26--124507"
-  },
-  {
-    "name": "BEYBLADE NORTH 2026 %E2%80%93 Cardboard Classics Qualifier",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Cardboard Classics 31 Disera Dr #100, Thornhill, Ontario L4J 0A7",
-    "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-BEYBLADE-NORTH-2026-%E2%80%93-Cardboard-Classics-Qualifier--124861"
+    "url": "https://worldbeyblade.org/Thread-X-Masters-45--124881"
   },
   {
     "name": "GANGSTA BALL Z COME ON LETS PLAY BURST",
@@ -600,24 +580,14 @@
     "url": "https://worldbeyblade.org/Thread-Manassas-Curio-Locals-04-18-26--124317"
   },
   {
-    "name": "Jubjub s Bday Blading RC Games",
+    "name": "GANGSTA BALL Z RETURN OF THE DEMON KING",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "RC Games 2725 Northwest Blvd P, Newton, North Carolina 28658",
+    "address": "Almeria Park 7250 Almeria Ave, Fontana, California 92336",
     "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-Jubjub-s-Bday-Blading-RC-Games--124572"
-  },
-  {
-    "name": "Pure Panic Local Tournament 1",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "PURE PANIC Comics and Games 8317 Fenton St, Silver Spring, Maryland 20910",
-    "date": "04/18/2026",
-    "url": "https://worldbeyblade.org/Thread-Pure-Panic-Local-Tournament-1--124550"
+    "url": "https://worldbeyblade.org/Thread-GANGSTA-BALL-Z-RETURN-OF-THE-DEMON-KING--124731"
   },
   {
     "name": "JONESY CUP 2026",
@@ -630,24 +600,74 @@
     "url": "https://worldbeyblade.org/Thread-JONESY-CUP-2026--124876"
   },
   {
-    "name": "X Spin Tourney S2 Ep 1 New Gen Clash",
+    "name": "HIT ZONE S1E7 MASTERS OF PEGASUS",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Veterans Park 3101 Harvey Rd, College Station, Texas 77845",
-    "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-X-Spin-Tourney-S2-Ep-1-New-Gen-Clash"
+    "address": "Krakenhits 7136 University Ave NE, Fridley, Minnesota 55432",
+    "date": "04/18/2026",
+    "url": "https://worldbeyblade.org/Thread-HIT-ZONE-S1E7-MASTERS-OF-PEGASUS--124733"
   },
   {
-    "name": "Boba and Beys 04 19 26",
+    "name": "SuperStar Card Gaming Local Tournament 04 18 26",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
+    "address": "SuperStar Card Gaming 7902 Belair Rd, Nottingham, Maryland 21236",
+    "date": "04/18/2026",
+    "url": "https://worldbeyblade.org/Thread-SuperStar-Card-Gaming-Local-Tournament-04-18-26--124507"
+  },
+  {
+    "name": "BEYBLADE NORTH 2026 %E2%80%93 Cardboard Classics Qualifier",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Cardboard Classics 31 Disera Dr #100, Thornhill, Ontario L4J 0A7",
+    "date": "04/18/2026",
+    "url": "https://worldbeyblade.org/Thread-BEYBLADE-NORTH-2026-%E2%80%93-Cardboard-Classics-Qualifier--124861"
+  },
+  {
+    "name": "SATURDAY Curio Baltimore Local Tournament 04 18 26",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Curio Cavern Baltimore 6901 Security Blvd, Windsor Mill, Maryland 21244",
+    "date": "04/18/2026",
+    "url": "https://worldbeyblade.org/Thread-SATURDAY-Curio-Baltimore-Local-Tournament-04-18-26--124860"
+  },
+  {
+    "name": "Jubjub s Bday Blading RC Games",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "RC Games 2725 Northwest Blvd P, Newton, North Carolina 28658",
+    "date": "04/18/2026",
+    "url": "https://worldbeyblade.org/Thread-Jubjub-s-Bday-Blading-RC-Games--124572"
+  },
+  {
+    "name": "Spin For Initiative Swords Spoons 2",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Swords & Spoons 22599 MacArthur Blvd, Ste. 126, California, Maryland 20619",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-19-26--124615"
+    "url": "https://worldbeyblade.org/Thread-Spin-For-Initiative-Swords-Spoons-2--124802"
+  },
+  {
+    "name": "Beyblade X Expands D2G Hobby Shop",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "D2G Hobby Shop 1324 36 Ave NE #100, Calgary, Alberta T2E 8S1",
+    "date": "04/19/2026",
+    "url": "https://worldbeyblade.org/Thread-Beyblade-X-Expands-D2G-Hobby-Shop--124834"
   },
   {
     "name": "Treasures of the Bey 3",
@@ -670,6 +690,26 @@
     "url": "https://worldbeyblade.org/Thread-Koopa-Cup-9--124801"
   },
   {
+    "name": "Boba and Beys 04 19 26",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
+    "date": "04/19/2026",
+    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-19-26--124615"
+  },
+  {
+    "name": "X Spin Tourney S2 Ep 1 New Gen Clash",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Veterans Park 3101 Harvey Rd, College Station, Texas 77845",
+    "date": "04/19/2026",
+    "url": "https://worldbeyblade.org/Thread-X-Spin-Tourney-S2-Ep-1-New-Gen-Clash"
+  },
+  {
     "name": "Lafayette Louisiana Unranked BBX 04 19 2026",
     "location": {
       "lat": 0,
@@ -680,24 +720,24 @@
     "url": "https://worldbeyblade.org/Thread-Lafayette-Louisiana-Unranked-BBX-04-19-2026"
   },
   {
-    "name": "The Bey Dojo Charity Event",
+    "name": "The Bladerverse at NXT Legaci Gaming",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Shinpo Martial Arts Shinpo Martial Arts, Clarence St, Chorley, Chorley, England PR7 2AT",
+    "address": "NXT Legaci Gaming 200 W 41st St 2nd Floor, New York, New York 10036",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-The-Bey-Dojo-Charity-Event--124903"
+    "url": "https://worldbeyblade.org/Thread-The-Bladerverse-at-NXT-Legaci-Gaming--124906"
   },
   {
-    "name": "Spin For Initiative Swords Spoons 2",
+    "name": "East Coast Cup X 17 To Infinity and Beyond NC State",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Swords & Spoons 22599 MacArthur Blvd, Ste. 126, California, Maryland 20619",
+    "address": "NC State Main Campus Lampe Hall Room 341 111 Lampe Drive, Raleigh, North Carolina 27606",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-Spin-For-Initiative-Swords-Spoons-2--124802"
+    "url": "https://worldbeyblade.org/Thread-East-Coast-Cup-X-17-To-Infinity-and-Beyond-NC-State--124905"
   },
   {
     "name": "Rocky Mountain X Treme 5 S1",
@@ -710,14 +750,24 @@
     "url": "https://worldbeyblade.org/Thread-Rocky-Mountain-X-Treme-5-S1--124089"
   },
   {
-    "name": "Beyblade X Expands D2G Hobby Shop",
+    "name": "DFW Beyblades Weekly Tournament 114 Duos Tournament",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "D2G Hobby Shop 1324 36 Ave NE #100, Calgary, Alberta T2E 8S1",
+    "address": "Epik Cards & Games 734 E Pipeline Rd, Hurst, Texas 76053",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-Beyblade-X-Expands-D2G-Hobby-Shop--124834"
+    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-114-Duos-Tournament--124904"
+  },
+  {
+    "name": "The Bey Dojo Charity Event",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Shinpo Martial Arts Shinpo Martial Arts, Clarence St, Chorley, Chorley, England PR7 2AT",
+    "date": "04/19/2026",
+    "url": "https://worldbeyblade.org/Thread-The-Bey-Dojo-Charity-Event--124903"
   },
   {
     "name": "Spellbound LARP Games Standard Tournament 3",
@@ -730,14 +780,14 @@
     "url": "https://worldbeyblade.org/Thread-Spellbound-LARP-Games-Standard-Tournament-3--124125"
   },
   {
-    "name": "The Bladerverse at NXT Legaci Gaming",
+    "name": "Steel Bey Run 2v2 Tag Team Tournament",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "NXT Legaci Gaming 200 W 41st St 2nd Floor, New York, New York 10036",
+    "address": "LifeLink Games 257 Connor Dr, Charlottesville, VA 22911, Charlottesville, Virginia 22901",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-The-Bladerverse-at-NXT-Legaci-Gaming--124906"
+    "url": "https://worldbeyblade.org/Thread-Steel-Bey-Run-2v2-Tag-Team-Tournament--124357"
   },
   {
     "name": "FATAL ERROR CX Only 19 4 26",
@@ -760,26 +810,6 @@
     "url": "https://worldbeyblade.org/Thread-NEBBX12-X-Classic--124868"
   },
   {
-    "name": "East Coast Cup X 17 To Infinity and Beyond NC State",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "NC State Main Campus Lampe Hall Room 341 111 Lampe Drive, Raleigh, North Carolina 27606",
-    "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-East-Coast-Cup-X-17-To-Infinity-and-Beyond-NC-State--124905"
-  },
-  {
-    "name": "Steel Bey Run 2v2 Tag Team Tournament",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "LifeLink Games 257 Connor Dr, Charlottesville, VA 22911, Charlottesville, Virginia 22901",
-    "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-Steel-Bey-Run-2v2-Tag-Team-Tournament--124357"
-  },
-  {
     "name": "Mills Sunday Series",
     "location": {
       "lat": 0,
@@ -790,14 +820,14 @@
     "url": "https://worldbeyblade.org/Thread-Mills-Sunday-Series--124867"
   },
   {
-    "name": "DFW Beyblades Weekly Tournament 114 Duos Tournament",
+    "name": "Waffles and Enthusiasm Beyblade X Sub Tournament 2",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Epik Cards & Games 734 E Pipeline Rd, Hurst, Texas 76053",
+    "address": "Waffles and Enthusiasm 414 W Ridge Pike, Conshohocken, Pennsylvania 19428",
     "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-DFW-Beyblades-Weekly-Tournament-114-Duos-Tournament--124904"
+    "url": "https://worldbeyblade.org/Thread-Waffles-and-Enthusiasm-Beyblade-X-Sub-Tournament-2--124862"
   },
   {
     "name": "Boba and Beys MFB Limited 04 19 26",
@@ -808,16 +838,6 @@
     "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
     "date": "04/19/2026",
     "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-MFB-Limited-04-19-26--124617"
-  },
-  {
-    "name": "Waffles and Enthusiasm Beyblade X Sub Tournament 2",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Waffles and Enthusiasm 414 W Ridge Pike, Conshohocken, Pennsylvania 19428",
-    "date": "04/19/2026",
-    "url": "https://worldbeyblade.org/Thread-Waffles-and-Enthusiasm-Beyblade-X-Sub-Tournament-2--124862"
   },
   {
     "name": "On The Play Gaming 1",
@@ -840,24 +860,24 @@
     "url": "https://worldbeyblade.org/Thread-Big-Chillin-Series-Bad-Machines-2-CX-Only"
   },
   {
-    "name": "Neophoenix s Trinity Ascension",
+    "name": "Dark Depths games back from the Depths",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Jasper Park Community League 8751 153 ST NW, Edmonton, Alberta T5R 1P1",
-    "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-Neophoenix-s-Trinity-Ascension--124214"
+    "address": "Dark depths games 732 S 4th St, PHILADELPHIA, Pennsylvania 19147",
+    "date": "04/24/2026",
+    "url": "https://worldbeyblade.org/Thread-Dark-Depths-games-back-from-the-Depths--124915"
   },
   {
-    "name": "NEBO Presents Bloom Battle Monthly 15",
+    "name": "FRIDAY Night Fight Curio Baltimore 04 24 26",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Fire & Dice 100 Hawley Lane, Trumbull, Connecticut 06611",
-    "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-NEBO-Presents-Bloom-Battle-Monthly-15--124787"
+    "address": "Curio Cavern Baltimore 6901 Security Blvd, Windsor Mill, Maryland 21244",
+    "date": "04/24/2026",
+    "url": "https://worldbeyblade.org/Thread-FRIDAY-Night-Fight-Curio-Baltimore-04-24-26--124918"
   },
   {
     "name": "Battle of the Sage%E2%80%99s 4",
@@ -870,34 +890,24 @@
     "url": "https://worldbeyblade.org/Thread-Battle-of-the-Sage%E2%80%99s-4--124786"
   },
   {
-    "name": "FULL EVENT Strike Vent",
+    "name": "Dragon s Den Large Park 1",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Coquitlam Public Library (City Centre Branch) 1169 Pinetree Way, Coquitlam, British Columbia V3B 8A9",
+    "address": "Large Park 4424 N Millbrook Ave, Fresno, CA 93726, FRESNO, California 93726",
     "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-FULL-EVENT-Strike-Vent"
+    "url": "https://worldbeyblade.org/Thread-Dragon-s-Den-Large-Park-1--124433"
   },
   {
-    "name": "Blue eyes white dragon 2 cup",
+    "name": "NEBO Presents Bloom Battle Monthly 15",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "Highview park 110 E Wayfarer Ln, Appleton, Wisconsin 54913",
+    "address": "Fire & Dice 100 Hawley Lane, Trumbull, Connecticut 06611",
     "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-Blue-eyes-white-dragon-2-cup--124114"
-  },
-  {
-    "name": "SuperStar Card Gaming Local Tournament 04 25 26",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "SuperStar Card Gaming 7902 Belair Rd, Nottingham, Maryland 21236",
-    "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-SuperStar-Card-Gaming-Local-Tournament-04-25-26--124506"
+    "url": "https://worldbeyblade.org/Thread-NEBO-Presents-Bloom-Battle-Monthly-15--124787"
   },
   {
     "name": "Manassas Curio Locals 04 25 26",
@@ -908,16 +918,6 @@
     "address": "Curio Cavern (Manassas Mall) 8300 Sudley Rd Unit L5, Manassas, Virginia 20109",
     "date": "04/25/2026",
     "url": "https://worldbeyblade.org/Thread-Manassas-Curio-Locals-04-25-26--124316"
-  },
-  {
-    "name": "Dragon s Den Large Park 1",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Large Park 4424 N Millbrook Ave, Fresno, CA 93726, FRESNO, California 93726",
-    "date": "04/25/2026",
-    "url": "https://worldbeyblade.org/Thread-Dragon-s-Den-Large-Park-1--124433"
   },
   {
     "name": "Beyblade X National Championships Last Chance Qualifier Pods",
@@ -940,6 +940,56 @@
     "url": "https://worldbeyblade.org/Thread-Beyblade-X-National-Championships--124483"
   },
   {
+    "name": "SuperStar Card Gaming Local Tournament 04 25 26",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "SuperStar Card Gaming 7902 Belair Rd, Nottingham, Maryland 21236",
+    "date": "04/25/2026",
+    "url": "https://worldbeyblade.org/Thread-SuperStar-Card-Gaming-Local-Tournament-04-25-26--124506"
+  },
+  {
+    "name": "Neophoenix s Trinity Ascension",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Jasper Park Community League 8751 153 ST NW, Edmonton, Alberta T5R 1P1",
+    "date": "04/25/2026",
+    "url": "https://worldbeyblade.org/Thread-Neophoenix-s-Trinity-Ascension--124214"
+  },
+  {
+    "name": "Blue eyes white dragon 2 cup",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Highview park 110 E Wayfarer Ln, Appleton, Wisconsin 54913",
+    "date": "04/25/2026",
+    "url": "https://worldbeyblade.org/Thread-Blue-eyes-white-dragon-2-cup--124114"
+  },
+  {
+    "name": "FULL EVENT Strike Vent",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Coquitlam Public Library (City Centre Branch) 1169 Pinetree Way, Coquitlam, British Columbia V3B 8A9",
+    "date": "04/25/2026",
+    "url": "https://worldbeyblade.org/Thread-FULL-EVENT-Strike-Vent"
+  },
+  {
+    "name": "NEXT SPIN VOL 2",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Maplewood Mall Shopping Center 3001 White Bear Ave, St Paul, Minnesota 55109",
+    "date": "04/25/2026",
+    "url": "https://worldbeyblade.org/Thread-NEXT-SPIN-VOL-2--124917"
+  },
+  {
     "name": "NEBO X Third Space 4",
     "location": {
       "lat": 0,
@@ -948,46 +998,6 @@
     "address": "Third Space Arcade Lounge 410 Blake Street #5, New Haven, Connecticut 06515",
     "date": "04/26/2026",
     "url": "https://worldbeyblade.org/Thread-NEBO-X-Third-Space-4--124836"
-  },
-  {
-    "name": "Boba and Beys 04 26 26",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
-    "date": "04/26/2026",
-    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-26-26--124616"
-  },
-  {
-    "name": "Temecula Valley Blading in T Town 14",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
-    "date": "04/26/2026",
-    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-14--124832"
-  },
-  {
-    "name": "The NCBC Featherweight Invitational Season 1 Finale",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Bad Machines Esports Bar 216 Nottingham Dr, Cary, North Carolina 27511",
-    "date": "04/26/2026",
-    "url": "https://worldbeyblade.org/Thread-The-NCBC-Featherweight-Invitational-Season-1-Finale--124097"
-  },
-  {
-    "name": "Georgia Beyblade x CCS Spring into Battle",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Charlie's Collectible Showcase 6009 Memorial Drive, Unit 14, Stone Mountain, Georgia 30083",
-    "date": "04/26/2026",
-    "url": "https://worldbeyblade.org/Thread-Georgia-Beyblade-x-CCS-Spring-into-Battle--124148"
   },
   {
     "name": "Heavens Piercer 2 Worlds Best Comics Games",
@@ -1000,14 +1010,14 @@
     "url": "https://worldbeyblade.org/Thread-Heavens-Piercer-2-Worlds-Best-Comics-Games--124702"
   },
   {
-    "name": "The Gamers Lodge NWBBL Nationals Cope",
+    "name": "Boba and Beys 04 26 26",
     "location": {
       "lat": 0,
       "lng": 0
     },
-    "address": "The Gamers Lodge 61A Kempston Street, Liverpool, England L3 8HE",
+    "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
     "date": "04/26/2026",
-    "url": "https://worldbeyblade.org/Thread-The-Gamers-Lodge-NWBBL-Nationals-Cope--124169"
+    "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-04-26-26--124616"
   },
   {
     "name": "Boba and Beys MFB Limited 04 26 26",
@@ -1018,6 +1028,56 @@
     "address": "Lucky Straws Boba Tea Cafe 13750 W Colonial Dr Suite 260, Winter Garden, Florida 34787",
     "date": "04/26/2026",
     "url": "https://worldbeyblade.org/Thread-Boba-and-Beys-MFB-Limited-04-26-26--124613"
+  },
+  {
+    "name": "Georgia Beyblade x CCS Spring into Battle",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Charlie's Collectible Showcase 6009 Memorial Drive, Unit 14, Stone Mountain, Georgia 30083",
+    "date": "04/26/2026",
+    "url": "https://worldbeyblade.org/Thread-Georgia-Beyblade-x-CCS-Spring-into-Battle--124148"
+  },
+  {
+    "name": "The Gamers Lodge NWBBL Nationals Cope",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "The Gamers Lodge 61A Kempston Street, Liverpool, England L3 8HE",
+    "date": "04/26/2026",
+    "url": "https://worldbeyblade.org/Thread-The-Gamers-Lodge-NWBBL-Nationals-Cope--124169"
+  },
+  {
+    "name": "The NCBC Featherweight Invitational Season 1 Finale",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Bad Machines Esports Bar 216 Nottingham Dr, Cary, North Carolina 27511",
+    "date": "04/26/2026",
+    "url": "https://worldbeyblade.org/Thread-The-NCBC-Featherweight-Invitational-Season-1-Finale--124097"
+  },
+  {
+    "name": "Temecula Valley Blading in T Town 14",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
+    "date": "04/26/2026",
+    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-14--124832"
+  },
+  {
+    "name": "NEBBX Birthday Bash",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "HobbyTown 4107 Pioneer Woods Dr #108, Lincoln, Nebraska 68506",
+    "date": "04/26/2026",
+    "url": "https://worldbeyblade.org/Thread-NEBBX-Birthday-Bash--124916"
   },
   {
     "name": "Teardown X Limited 27 4 26",
@@ -1080,16 +1140,6 @@
     "url": "https://worldbeyblade.org/Thread-Its-gonna-be-MAY-Erie-PA-2026--124545"
   },
   {
-    "name": "Temecula Valley Blading in T Town 15",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
-    "date": "05/10/2026",
-    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-15--124833"
-  },
-  {
     "name": "Rocky Mountain X Treme 6 S1",
     "location": {
       "lat": 0,
@@ -1098,6 +1148,16 @@
     "address": "Localhost 1882 S Wadsworth Blvd, Lakewood, Colorado 80232",
     "date": "05/10/2026",
     "url": "https://worldbeyblade.org/Thread-Rocky-Mountain-X-Treme-6-S1"
+  },
+  {
+    "name": "Temecula Valley Blading in T Town 15",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "address": "Tucalota Park 37880 Pourroy Road, Murrieta, California 92563",
+    "date": "05/10/2026",
+    "url": "https://worldbeyblade.org/Thread-Temecula-Valley-Blading-in-T-Town-15--124833"
   },
   {
     "name": "Teardown X Limited 11 5 26",
