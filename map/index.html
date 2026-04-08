@@ -47,15 +47,17 @@
     </header>
     <div id="container">
       <div id="sidebar">
-        <h2>Find Tournaments</h2>
-        <div class="InputContainer">
-          <input
-            placeholder="Search"
-            id="search-bar"
-            class="input"
-            name="text"
-            type="text"
-          />
+        <div class="sidebar-header">
+          <h2>Find Tournaments</h2>
+          <div class="InputContainer">
+            <input
+              placeholder="Search"
+              id="search-bar"
+              class="input"
+              name="text"
+              type="text"
+            />
+          </div>
         </div>
         <ul id="tournament-list"></ul>
       </div>
@@ -67,9 +69,7 @@
         <span class="modal-close">&times;</span>
         <h3 id="modal-title"></h3>
         <p id="modal-date"></p>
-        <a id="modal-link" href="#" target="_blank" rel="noopener"
-          >View WBO Post</a
-        >
+        <iframe id="modal-link" src="#" title="View WBO Post"></iframe>
       </div>
     </div>
 

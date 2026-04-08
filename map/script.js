@@ -5,7 +5,7 @@ async function initMap() {
 
   const map = new Map(document.getElementById("map"), {
     center: { lat: 40.9, lng: -74.1 }, // Centered on NJ
-    zoom: 5,
+    zoom: 8,
     gestureHandling: "greedy",
     mapId: "DEMO_MAP_ID",
   });
@@ -205,7 +205,7 @@ function openModal(tournament) {
   document.getElementById("modal-title").textContent = tournament.name;
   document.getElementById("modal-date").textContent =
     `Date: ${tournament.date}`;
-  document.getElementById("modal-link").href = tournament.url;
+  document.getElementById("modal-link").src = tournament.url;
   modal.classList.remove("modal-hidden");
 }
 

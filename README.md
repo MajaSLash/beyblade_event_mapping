@@ -18,7 +18,6 @@ Google Map integration for visualizing upcoming Beyblade events posted on the WB
 
 ## Coming Soon
 
-- WBO page preview (to showcase community posters!)
 - Nav bar pages
 - Data analysis of regional metas
 - Search by proximity
